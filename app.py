@@ -66,6 +66,7 @@ code=f'''<p><br>
 '''
 
 st.markdown(code,unsafe_allow_html=True)
+st.balloons()
 foot='''
 <div class="foot">
 <p><br>           Developed with Lots of <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cup-hot-fill" viewBox="0 0 16 16">
